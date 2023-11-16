@@ -1,0 +1,15 @@
+{
+  "name": "xyina2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "]",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsbarcode": "^3.11.5",
+    "qrcode": "^1.5.3"
+  }
+}
