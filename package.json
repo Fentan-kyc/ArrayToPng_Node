@@ -1,12 +1,12 @@
 {
-  "name": "xyina2",
-  "version": "1.0.0",
+  "name": "ArrayToPng_Node",
+  "version": "1.0.1",
   "description": "",
   "main": "]",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
-  "author": "",
+  "author": "Fentan-Kyc",
   "license": "ISC",
   "dependencies": {
     "jsbarcode": "^3.11.5",

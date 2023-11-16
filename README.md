@@ -2,4 +2,4 @@
 
 Node.js converter from json to png qr-code. 
 
-For Windows 
+Target platform - Windows
